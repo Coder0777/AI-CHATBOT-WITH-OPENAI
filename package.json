@@ -12,7 +12,7 @@
     "openai"
   ],
   "author": "Steven Olano",
-  "license": "ISC",
+  "license": "GNU GPL",
   "dependencies": {
     "@types/node": "^18.0.6",
     "express": "^4.18.2",
